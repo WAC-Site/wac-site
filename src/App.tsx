@@ -7,7 +7,7 @@ function App() {
         <h1 className="title mb-4">Welcome to the WAC Site!</h1>
         <p className="subtitle mb-5">This is the WAC site for Windows Animations!</p>
       <h2 className="title p-4">What is WAC?</h2>
-      <p className="subtitle mb-4">WAC stands for Windows Animation Community. It is a community that people make stories, animations about Windows OSes.</p>
+      <p className="subtitle mb-4">WAC stands for Windows Animation Community. It is a community where people make stories, animations about Windows OSes.</p>
       <h2 className="title mb-4">Series to watch!</h2>
       <p className="subtitle mb-4">Here are some recommended series to watch! Definitely watch them :)</p>
       <ul className="list">
@@ -25,6 +25,9 @@ function App() {
         </li>
         <li className="list-item">
           <a href="https://www.youtube.com/watch?v=JRS-dbwSkf0&list=PLdNrojDkI21FLK271NjBsghpKdOuVIMLd&pp=gAQB">Windows XP And The Chaos in Bliss</a>
+        </li>
+        <li className="list-item">
+          <a href="https://www.youtube.com/watch?v=oiglhaQ1dtg&list=PLrbJqOKaKI1CMFvfvBU-66y31Pp_QVoRV">Windows: Search and Death</a>
         </li>
       </ul>
     </div>

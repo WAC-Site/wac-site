@@ -29,6 +29,10 @@ function App() {
         <li className="list-item">
           <a href="https://www.youtube.com/watch?v=oiglhaQ1dtg&list=PLrbJqOKaKI1CMFvfvBU-66y31Pp_QVoRV">Windows: Search and Death</a>
         </li>
+        <li className="list-item">
+          <a href="https://www.youtube.com/watch?v=oLmAzrYJbis&list=PLSzEmMnjb_gonK5vv4tg841pCnuZy16Cq">Windows: The Infection</a>
+      </li>
+        <p className="subtitle">Credits to the all creators of the series :)</p>
       </ul>
     </div>
   </section>

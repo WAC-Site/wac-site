@@ -1,21 +1,11 @@
-# React + TypeScript + Vite
+# The WAC Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the source code for the WAC site.
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+## Dev Stack
 
-## Deploy Your Own
+**Vite**
+**React**
+**Bulma CSS**
 
-Deploy your own Vite project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/vite-react&template=vite-react)
-
-_Live Example: https://vite-react-example.vercel.app_
-
-### Deploying From Your Terminal
-
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
-
-```shell
-$ vercel
-```
+**NOTE**:THIS IS IN WIP

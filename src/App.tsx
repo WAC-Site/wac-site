@@ -34,7 +34,6 @@ function App() {
       </li>
         <p className="subtitle">Credits to the all creators of the series :)</p>
       </ul>
-        <a href"https://discord.gg/vg4gzb3bHA">Discord Server</a>
     </div>
   </section>
 )

@@ -4,7 +4,8 @@ function App() {
   return (
     <section className="section">
       <div className="container">
-        <figure className="image is-128x128 mb-5">
+        <div className="images">
+          <figure className="image is-128x128 mb-5">
           <img src="https://cdn.discordapp.com/attachments/1353412285993062460/1388144110585516143/sticky.png.png?ex=685fe972&is=685e97f2&hm=a7d47ce716275a853979a35ba4e4d1c53acfe42b06c57984567386537d8dc259&" alt="site-image-1" />
         </figure>
         <figure className="image is-128x128 mb-5">
@@ -13,6 +14,7 @@ function App() {
         <figure className="image is-128x128 mb-5">
           <img src="https://media.discordapp.net/attachments/1353412285993062460/1388144111152005270/popcorn2.png?ex=685fe972&is=685e97f2&hm=b327eec242699aa6608e451208bb035d7075c12f1467a5bf7ac4dbc7732572f5&=" alt="site-image-3" />
         </figure>
+        </div>
         <h1 className="title mb-4">Welcome to the WAC Site!</h1>
         <p className="subtitle mb-5">This is the WAC site for Windows Animations!</p>
       <h2 className="title p-4">What is WAC?</h2>

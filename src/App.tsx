@@ -15,7 +15,7 @@ function App() {
           <a href="https://www.youtube.com/watch?v=39_9qRI-xi0&list=PLxZprgMRn1dLeEGg7TiWmz42Qhf9Xi7zJ">Windows 8.1 And The Trouble In Bliss</a>
         </li>
         <li className="list-item">
-          <a href="https://www.youtube.com/watch?v=0zaUXku15mE&list=PLadNJ4UaIf9pXQ_-hv3xMkZlokHAa1pcU">Windows 7 and the trouble in bliss</a>
+          <a href="https://www.youtube.com/watch?v=0zaUXku15mE&list=PLadNJ4UaIf9pXQ_-hv3xMkZlokHAa1pcU">Windows 7 and the chaos in the afterlife</a>
         </li>
         <li className="list-item">
           <a href="https://www.youtube.com/watch?v=SBV08FfV5DU&pp=ygUSd2luZG93cyB2aXN0YSBkaWVz">Windows Vista Dies</a>

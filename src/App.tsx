@@ -6,13 +6,13 @@ export default function Home() {
       <div className="container">
         <div className="images">
           <figure className="image is-128x128 mb-5">
-          <img src="https://cdn.discordapp.com/attachments/1353412285993062460/1388144110585516143/sticky.png.png?ex=685fe972&is=685e97f2&hm=a7d47ce716275a853979a35ba4e4d1c53acfe42b06c57984567386537d8dc259&" alt="site-image-1" />
+          <img src="https://media.discordapp.net/attachments/1353412285993062460/1388144110585516143/sticky.png.png?ex=68799eb2&is=68784d32&hm=fd4556872aca309017a1dbc38e8a7681707ee8ac40db3dc16069b5ce22a8a3d3&=" alt="site-image-1" />
         </figure>
         <figure className="image is-128x128 mb-5">
-          <img src="https://media.discordapp.net/attachments/1353412285993062460/1388144110883438743/chess.png?ex=685fe972&is=685e97f2&hm=4391d39ec51772fdc339dfd3240d323647c3748494b8d945519ae2cd6f267f31&=" alt="site-image-2" />
+          <img src="https://cdn.discordapp.com/attachments/1353412285993062460/1388144110883438743/chess.png?ex=68799eb2&is=68784d32&hm=ae526d0eb8067e1aa9fd3531669814f048f76fc9391dfb49861d6cb42185f193&" alt="site-image-2" />
         </figure>
         <figure className="image is-128x128 mb-5">
-          <img src="https://media.discordapp.net/attachments/1353412285993062460/1388144111152005270/popcorn2.png?ex=685fe972&is=685e97f2&hm=b327eec242699aa6608e451208bb035d7075c12f1467a5bf7ac4dbc7732572f5&=" alt="site-image-3" />
+          <img src="https://cdn.discordapp.com/attachments/1353412285993062460/1388144111152005270/popcorn2.png?ex=68799eb2&is=68784d32&hm=8882b698718faeb084b48efb2beb7accf0806d28b3952839b49c00b044a203dd&" alt="site-image-3" />
         </figure>
         </div>
         <h1 className="title mb-4">Welcome to the WAC Site!</h1>
